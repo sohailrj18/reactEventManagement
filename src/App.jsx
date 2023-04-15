@@ -8,7 +8,7 @@ function App() {
     <Box bgColor={"#161625"}>
       <Center>
         <Heading as="h1" size="2xl" color={"blue.500"} paddingY={"10"}>
-          Events
+          Events at LPU
         </Heading>
       </Center>
       <div>
